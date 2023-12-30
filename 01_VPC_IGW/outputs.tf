@@ -1,4 +1,3 @@
-# Author :- Dheeraj Choudhary
 
 output "vpc_id" {
   value       = aws_vpc.CustomVPC.id
